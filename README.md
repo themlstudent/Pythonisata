@@ -2,6 +2,13 @@
 
 ## Day 1:
 
-Basic About Python Like Syntax,How to give Comments in Python,Python Variable, Python DataTypes, Python Casting and Random Number Geneerator. 
+Basic About Python :
+
+- Python Syntax.
+- How to give Comments in Python.
+- Python Variable.
+- Python DataTypes.
+- Python Casting.
+-  Random Number Geneerator. 
 
 
