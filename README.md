@@ -6,6 +6,8 @@ Basic About Python :
 
 - Python Syntax.
 - How to give Comments in Python.
+-  Python Variable.
+
 
 
 
