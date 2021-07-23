@@ -11,6 +11,10 @@ Basic About Python :
 - Python Casting.
 - Random Number Geneerator. 
 
+## Day 2:
+
+About Python Variable and Strings :
+
 
 
 
