@@ -16,6 +16,7 @@ Basic About Python :
 About Python Variable and Strings :
 
 - Python Global Variable.
+- The Global Keyword
 
 
 
