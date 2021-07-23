@@ -20,7 +20,7 @@ About Python Variable and Strings :
 - Strings.
 - Multiline Strings.
 - Strings As Arrays.
-- Check String `in` and  `not in`.
+- Check String Present or Not [`in` and  `not in`.]
 
 
 
