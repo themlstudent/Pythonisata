@@ -19,6 +19,7 @@ About Python Variable and Strings :
 - The Global Keyword.
 - Strings.
 - Multiline Strings.
+- Strings As Arrays.
 
 
 
