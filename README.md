@@ -40,4 +40,5 @@ About Python Variable and Strings :
    * Strip Method.
    * string.lstrip.
    * string.rstrip.
-   
+- Replace String.
+- Split String.
