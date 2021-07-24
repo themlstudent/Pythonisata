@@ -26,3 +26,4 @@ About Python Variable and Strings :
 ## Day 3:
 
 - Accessing Character in Python
+- String Slicing
