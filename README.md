@@ -36,4 +36,6 @@ About Python Variable and Strings :
        * Slice To the End
 - Reverse a String: 
 - Modify Strings.
-- Remove Whitespace
+- Remove Whitespace.
+   * Strip Method
+   
