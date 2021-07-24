@@ -37,5 +37,7 @@ About Python Variable and Strings :
 - Reverse a String: 
 - Modify Strings.
 - Remove Whitespace.
-   * Strip Method
+   * Strip Method.
+   * string.lstrip.
+   * string.rstrip.
    
