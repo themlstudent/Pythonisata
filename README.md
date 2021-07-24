@@ -33,3 +33,4 @@ About Python Variable and Strings :
     * Get sublist and sub-tuple 
     * Using Indexing Syntax for Slicing
        * Slice From the Start
+       * Slice To the End
