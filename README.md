@@ -34,4 +34,5 @@ About Python Variable and Strings :
     * Using Indexing Syntax for Slicing
        * Slice From the Start
        * Slice To the End
-- Reverse a String:
+- Reverse a String: 
+- Modify Strings:
