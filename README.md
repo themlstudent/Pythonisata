@@ -30,4 +30,6 @@ About Python Variable and Strings :
     * Create a slice object for slicing.
     * Get substring using slice object.
     * Get substring using negative index.
-    * Get sublist and sub-tuple
+    * Get sublist and sub-tuple 
+    * Using Indexing Syntax for Slicing
+       * Slice From the Start
