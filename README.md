@@ -29,4 +29,5 @@ About Python Variable and Strings :
 - String Slicing
     * Create a slice object for slicing.
     * Get substring using slice object.
-    * Get substring using negative index
+    * Get substring using negative index.
+    * Get sublist and sub-tuple
