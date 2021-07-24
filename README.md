@@ -35,4 +35,5 @@ About Python Variable and Strings :
        * Slice From the Start
        * Slice To the End
 - Reverse a String: 
-- Modify Strings:
+- Modify Strings.
+- Remove Whitespace
