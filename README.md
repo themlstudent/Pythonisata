@@ -27,3 +27,4 @@ About Python Variable and Strings :
 
 - Accessing Character in Python
 - String Slicing
+    * Create a slice object for slicing.
