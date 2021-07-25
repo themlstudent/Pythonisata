@@ -1,4 +1,4 @@
-# 99 Days of PYTHON :--
+# 99 Days of PYTHON :
 ![](/images/py.png)
 ## Day 1:
 
