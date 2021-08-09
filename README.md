@@ -25,6 +25,8 @@ About Python Variable and Strings :
 
 ## Day 3:
 
+Working with string:
+
 - Accessing Character in Python
 - String Slicing
     * Create a slice object for slicing.
@@ -42,3 +44,5 @@ About Python Variable and Strings :
    * string.rstrip.
 - Replace String.
 - Split String.
+
+## Day 4:
