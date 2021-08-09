@@ -48,4 +48,5 @@ Working with string:
 ## Day 4:
 
 - String Concatenation.
+- String Format.
 - 
