@@ -52,3 +52,8 @@ Working with string:
 - Escape Characters.
 - Deletion from a String.
 - Updating  a String.
+
+
+
+## Day 5:
+- String Methods.
