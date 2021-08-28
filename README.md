@@ -57,3 +57,4 @@ Working with string:
 
 ## Day 5:
 - String Methods.
+   * String Capitalized Method.
