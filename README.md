@@ -59,3 +59,4 @@ Working with string:
 - String Methods.
    * String Capitalized Method.
    * String casefold() Method.
+   * String center() Method
