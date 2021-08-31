@@ -69,3 +69,4 @@ Working with string:
    * String isspace() Method.
    * String isupper() Method.
    * String join() Method.
+   * String maketrans() Method.
