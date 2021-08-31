@@ -61,3 +61,5 @@ Working with string:
    * String casefold() Method.
    * String center() Method.
    * String expandtabs() Method.
+   * String find() Method.
+   * 
