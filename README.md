@@ -63,4 +63,4 @@ Working with string:
    * String expandtabs() Method.
    * String find() Method.
    * String isalnum() Method.
-   * 
+   * String isalpha() Method.
