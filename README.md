@@ -65,3 +65,4 @@ Working with string:
    * String isalnum() Method.
    * String isalpha() Method.
    * String isidentifier() Method.
+   * String islower() Method.
