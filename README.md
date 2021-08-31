@@ -60,12 +60,12 @@ Working with string:
    * String `Capitalized` Method.
    * String `casefold()` Method.
    * String `center()` Method.
-   * String expandtabs() Method.
-   * String find() Method.
-   * String isalnum() Method.
-   * String isalpha() Method.
-   * String isidentifier() Method.
-   * String islower() Method.
+   * String `expandtabs()` Method.
+   * String `find()` Method.
+   * String `isalnum()` Method.
+   * String `isalpha()` Method.
+   * String `isidentifier()` Method.
+   * String `islower()` Method.
    * String isspace() Method.
    * String isupper() Method.
    * String join() Method.
