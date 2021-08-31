@@ -66,3 +66,4 @@ Working with string:
    * String isalpha() Method.
    * String isidentifier() Method.
    * String islower() Method.
+   * String isspace() Method.
