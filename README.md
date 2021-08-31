@@ -24,7 +24,7 @@ About Python Variable and Strings :
 
 
 ## Day 3:
-![](/images/string.png)
+![](/images/string.png| width= 100)
 
 Working with string:
 
