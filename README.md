@@ -68,3 +68,4 @@ Working with string:
    * String islower() Method.
    * String isspace() Method.
    * String isupper() Method.
+   * String join() Method.
