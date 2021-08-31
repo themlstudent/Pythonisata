@@ -70,3 +70,4 @@ Working with string:
    * String isupper() Method.
    * String join() Method.
    * String maketrans() Method.
+   * String partition() Method.
