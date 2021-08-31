@@ -67,3 +67,4 @@ Working with string:
    * String isidentifier() Method.
    * String islower() Method.
    * String isspace() Method.
+   * String isupper() Method.
