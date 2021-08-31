@@ -64,3 +64,4 @@ Working with string:
    * String find() Method.
    * String isalnum() Method.
    * String isalpha() Method.
+   * String isidentifier() Method.
