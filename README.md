@@ -24,7 +24,7 @@ About Python Variable and Strings :
 
 
 ## Day 3:
-<img src="https://files.realpython.com/media/Strings-and-Character-Data-in-Python_Watermarked.296b2b518ae5.jpg" width="900" height="400">
+<img src="https://files.realpython.com/media/Strings-and-Character-Data-in-Python_Watermarked.296b2b518ae5.jpg" width="1000" height="300">
 
 Working with string:
 
