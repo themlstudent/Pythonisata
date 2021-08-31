@@ -66,9 +66,9 @@ Working with string:
    * String `isalpha()` Method.
    * String `isidentifier()` Method.
    * String `islower()` Method.
-   * String isspace() Method.
-   * String isupper() Method.
-   * String join() Method.
-   * String maketrans() Method.
-   * String partition() Method.
-   * String replace() Method.
+   * String `isspace()` Method.
+   * String `isupper()` Method.
+   * String `join()` Method.
+   * String `maketrans()` Method.
+   * String `partition()` Method.
+   * String `replace()` Method.
