@@ -24,7 +24,7 @@ About Python Variable and Strings :
 
 
 ## Day 3:
-
+![](/images/string.png)
 Working with string:
 
 - Accessing Character in Python
