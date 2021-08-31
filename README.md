@@ -57,7 +57,7 @@ Working with string:
 
 ## Day 5:
 - String Methods.
-   * String Capitalized Method.
+   * String `Capitalized` Method.
    * String casefold() Method.
    * String center() Method.
    * String expandtabs() Method.
