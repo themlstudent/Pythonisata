@@ -62,4 +62,5 @@ Working with string:
    * String center() Method.
    * String expandtabs() Method.
    * String find() Method.
+   * String isalnum() Method.
    * 
