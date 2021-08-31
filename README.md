@@ -71,3 +71,4 @@ Working with string:
    * String join() Method.
    * String maketrans() Method.
    * String partition() Method.
+   * String replace() Method.
