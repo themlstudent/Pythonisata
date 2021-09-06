@@ -78,3 +78,4 @@ Working with string:
 - Python Operators:-
    - Arithmetic operators.
    - Assignment operators.
+   - Comparison operators.
