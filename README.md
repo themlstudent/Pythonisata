@@ -81,3 +81,4 @@ Working with string:
    - Comparison operators.
    - Logical operators.
    - Identity operators.
+   - Membership operators.
