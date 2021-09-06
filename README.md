@@ -72,3 +72,4 @@ Working with string:
    * String `maketrans()` Method.
    * String `partition()` Method.
    * String `replace()` Method.
+## Day 6:
