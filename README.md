@@ -79,3 +79,4 @@ Working with string:
    - Arithmetic operators.
    - Assignment operators.
    - Comparison operators.
+   - Logical operators.
