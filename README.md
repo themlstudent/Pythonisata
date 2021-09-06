@@ -75,3 +75,4 @@ Working with string:
 ## Day 6:
 
 - Python Booleans.
+- Python Operators:-
