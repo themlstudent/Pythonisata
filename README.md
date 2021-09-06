@@ -80,3 +80,4 @@ Working with string:
    - Assignment operators.
    - Comparison operators.
    - Logical operators.
+   - Identity operators.
