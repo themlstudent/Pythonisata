@@ -73,3 +73,5 @@ Working with string:
    * String `partition()` Method.
    * String `replace()` Method.
 ## Day 6:
+
+- Python Booleans.
