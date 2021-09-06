@@ -76,3 +76,4 @@ Working with string:
 
 - Python Booleans.
 - Python Operators:-
+   - Arithmetic operators.
