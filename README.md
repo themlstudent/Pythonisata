@@ -1,5 +1,5 @@
 # 99 Days of PYTHON :
-![](/images/py.png)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fdatacamp&psig=AOvVaw0DgSyiRbjfTMxAZVSA5UeB&ust=1631083420641000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNCx8rKh7PICFQAAAAAdAAAAABAI)
 ## Day 1:
 
 Basic About Python :
