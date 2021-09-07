@@ -1,4 +1,4 @@
-# 99 Days of PYTHON :
+# Infinite Python:
 ![](/images/giphy.png)
 ## Day 1:
 
