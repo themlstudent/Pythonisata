@@ -83,3 +83,5 @@ Working with string:
    - Identity operators.
    - Membership operators.
    - Bitwise operators.
+   
+ ## Day 7:
