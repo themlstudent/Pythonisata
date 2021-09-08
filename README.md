@@ -87,3 +87,4 @@ Working with string:
  ## Day 7:
 
 - Working with List:
+   * List Length.
