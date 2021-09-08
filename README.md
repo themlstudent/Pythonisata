@@ -86,4 +86,4 @@ Working with string:
    
  ## Day 7:
 
-- LIST:
+- Working with List:
