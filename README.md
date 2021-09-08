@@ -92,5 +92,6 @@ Working with string:
   * Indexing.
   * Negative Indexing.
   * Range of Indexes.
-- Change List Items.
+- Change List Items:
   * Insert Method.
+- Add List Items:
