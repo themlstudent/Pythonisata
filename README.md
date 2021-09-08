@@ -95,3 +95,6 @@ Working with string:
 - Change List Items:
   * Insert Method.
 - Add List Items:
+  * Append Method.
+  * Insert Method.
+  * Extend Method
