@@ -85,3 +85,5 @@ Working with string:
    - Bitwise operators.
    
  ## Day 7:
+
+- LIST:
