@@ -91,3 +91,4 @@ Working with string:
 - Access List Items:
   * Indexing.
   * Negative Indexing.
+  * Range of Indexes.
