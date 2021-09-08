@@ -89,3 +89,5 @@ Working with string:
 - Working with List:
    * List Length.
 - Access List Items:
+  * Indexing.
+  * Negative Indexing.
