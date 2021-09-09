@@ -100,4 +100,4 @@ Working with string:
   * Extend Method.
 - Remove List Items:
   * Remove Method.
-  * 
+  * Pop Method
