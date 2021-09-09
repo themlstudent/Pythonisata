@@ -97,4 +97,4 @@ Working with string:
 - Add List Items:
   * Append Method.
   * Insert Method.
-  * Extend Method
+  * Extend Method.
