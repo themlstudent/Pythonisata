@@ -108,3 +108,4 @@ Working with string:
   * While Loop.
 - List Comprehension.
 - Sort The List.
+- Copy List.
