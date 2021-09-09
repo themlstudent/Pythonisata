@@ -102,3 +102,4 @@ Working with string:
   * Remove Method.
   * Pop Method.
   * Del Method.
+  * Clear Method.
