@@ -107,3 +107,4 @@ Working with string:
   * For Loop.
   * While Loop.
 - List Comprehension.
+- Sort The List.
