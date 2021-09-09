@@ -103,3 +103,6 @@ Working with string:
   * Pop Method.
   * Del Method.
   * Clear Method.
+- Loop Through a List:
+  * For Loop.
+  * While Loop.
