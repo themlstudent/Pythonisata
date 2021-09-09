@@ -98,3 +98,4 @@ Working with string:
   * Append Method.
   * Insert Method.
   * Extend Method.
+- Remove List Items:
