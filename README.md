@@ -109,3 +109,4 @@ Working with string:
 - List Comprehension.
 - Sort The List.
 - Copy List.
+- Join List.
