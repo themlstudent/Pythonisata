@@ -99,3 +99,5 @@ Working with string:
   * Insert Method.
   * Extend Method.
 - Remove List Items:
+  * Remove Method.
+  * 
