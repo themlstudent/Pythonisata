@@ -4,8 +4,8 @@
 
 Basic About Python :
 
-- What is Python ?
-- Why Choosee Python ?
+- What is Python.
+- Why Choosee Python.
 - Python Variable.
 - Python DataTypes.
 - Python Casting.
