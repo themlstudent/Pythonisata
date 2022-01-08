@@ -9,7 +9,7 @@ Basic About Python :
 - Features Of Python.
 - Companies Ussing Python.
 - Why Learn  Python.
-- Random Number Geneerator. 
+- Advantages and Disadvantages Of Python.
 
 ## Day 2:
 
