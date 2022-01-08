@@ -6,7 +6,7 @@ Basic About Python :
 
 - What is Python.
 - Why Choosee Python.
-- Python Variable.
+- Features Of Python.
 - Python DataTypes.
 - Python Casting.
 - Random Number Geneerator. 
