@@ -4,7 +4,7 @@
 
 Basic About Python :
 
-- Python Syntax.
+- What is Python ?
 - How to give Comments in Python.
 - Python Variable.
 - Python DataTypes.
