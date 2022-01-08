@@ -5,7 +5,7 @@
 Basic About Python :
 
 - What is Python ?
-- How to give Comments in Python.
+- Why Choosee Python ?
 - Python Variable.
 - Python DataTypes.
 - Python Casting.
