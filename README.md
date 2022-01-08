@@ -8,7 +8,7 @@ Basic About Python :
 - Why Choosee Python.
 - Features Of Python.
 - Companies Ussing Python.
-- Python Casting.
+- Why Learn  Python.
 - Random Number Geneerator. 
 
 ## Day 2:
