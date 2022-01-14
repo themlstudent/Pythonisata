@@ -26,6 +26,7 @@ About Python Variable , Identifiers and Scope :
    * Global Variables.
    * Local Variables.
    * Non-Local Variables.
+   * Local Scope, Global Scope, Enclosing Scope.
 
 
 ## Day 3:
