@@ -20,7 +20,8 @@ About Python Variable , Identifiers and Scope :
 - Naming Variables.
 - Python Reserved Keywords.
 - Assigning Variables.
-   * Assigning Multiple Variables.
+   * Assigning Multiple Variables..
+   * Assigning Single Value.
 - Check String Present or Not [`in` and  `not in`]
 
 
