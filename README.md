@@ -19,7 +19,8 @@ About Python Variable , Identifiers and Scope :
 - Python is Dynamically Typed.
 - Naming Variables.
 - Python Reserved Keywords.
-- Assigning Variables
+- Assigning Variables.
+   * Assigning Multiple Variables.
 - Check String Present or Not [`in` and  `not in`]
 
 
