@@ -22,7 +22,7 @@ About Python Variable , Identifiers and Scope :
 - Assigning Variables.
    * Assigning Multiple Variables..
    * Assigning Single Value.
-- Check String Present or Not [`in` and  `not in`]
+- Scope-Local, Nonlocal and Global Variables
 
 
 ## Day 3:
