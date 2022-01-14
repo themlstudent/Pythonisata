@@ -15,7 +15,7 @@ Basic About Python :
 
 About Python Variable , Identifiers and Scope :
 
-- Python Global Variable.
+- Python Variable.
 - The Global Keyword.
 - Strings.
 - Multiline Strings.
