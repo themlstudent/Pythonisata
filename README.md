@@ -13,7 +13,7 @@ Basic About Python :
 
 ## Day 2:
 
-About Python Variable and Strings :
+About Python Variable , Identifiers and Scope :
 
 - Python Global Variable.
 - The Global Keyword.
