@@ -24,6 +24,8 @@ About Python Variable , Identifiers and Scope :
    * Assigning Single Value.
 - Scope-Local, Nonlocal and Global Variables.
    * Global Variables.
+   * Local Variables.
+   * Non-Local Variables.
 
 
 ## Day 3:
