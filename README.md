@@ -6,7 +6,7 @@ Basic About Python :
 
 - What is Python.
 - Why Choosee Python.
-- Naming Variables.
+- Features of Python.
 - Companies Ussing Python.
 - Why Learn  Python.
 - Advantages and Disadvantages Of Python.
@@ -17,7 +17,7 @@ About Python Variable , Identifiers and Scope :
 
 - Python Variable.
 - Python is Dynamically Typed.
-- Strings.
+- Naming Variables.
 - Multiline Strings.
 - Strings As Arrays.
 - Check String Present or Not [`in` and  `not in`]
