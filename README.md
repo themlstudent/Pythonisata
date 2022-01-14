@@ -6,7 +6,7 @@ Basic About Python :
 
 - What is Python.
 - Why Choosee Python.
-- Features Of Python.
+- Naming Variables.
 - Companies Ussing Python.
 - Why Learn  Python.
 - Advantages and Disadvantages Of Python.
