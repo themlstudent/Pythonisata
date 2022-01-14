@@ -16,7 +16,7 @@ Basic About Python :
 About Python Variable , Identifiers and Scope :
 
 - Python Variable.
-- The Global Keyword.
+- Python is Dynamically Typed.
 - Strings.
 - Multiline Strings.
 - Strings As Arrays.
