@@ -1,4 +1,4 @@
-# Infinite Python:::::
+# Infinite Python::::
 ![](/images/giphy.png)
 ## Day 1:
 
