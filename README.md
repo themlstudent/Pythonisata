@@ -37,7 +37,7 @@ About Python Variable , Identifiers and Scope :
 Working with Operators:
 
 - What Are Operators.
--  Arithmetic Operators.
+- Arithmetic Operators.
   * Addition Operator.
   * 
 - Reverse a String: 
