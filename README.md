@@ -41,6 +41,8 @@ Working with Operators:
   * Addition Operator.
   * Subtraction Operator.
   * Multiplication Operator.
+  * Division operator.
+  * 
 - Reverse a String: 
 - Modify Strings.
 - Remove Whitespace.
