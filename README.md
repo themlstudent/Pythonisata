@@ -34,7 +34,7 @@ About Python Variable , Identifiers and Scope :
 
 ## Day 3:
 
-Working with string:
+Working with Operators:
 
 - Accessing Character in Python
 - String Slicing
