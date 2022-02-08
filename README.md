@@ -36,7 +36,7 @@ About Python Variable , Identifiers and Scope :
 
 Working with Operators:
 
-- Accessing Character in Python
+- What Are Operators.
 - String Slicing
     * Create a slice object for slicing.
     * Get substring using slice object.
