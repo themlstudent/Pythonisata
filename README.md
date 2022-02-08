@@ -40,6 +40,7 @@ Working with Operators:
 - Arithmetic Operators.
   * Addition Operator.
   * Subtraction Operator.
+  * Multiplication Operator.
 - Reverse a String: 
 - Modify Strings.
 - Remove Whitespace.
