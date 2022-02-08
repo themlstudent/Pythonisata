@@ -44,6 +44,7 @@ Working with Operators:
   * Division operator.
   * Exponentiation Operator.
   * Floor Division Operator.
+  * Modulus Operator.
 - Reverse a String: 
 - Modify Strings.
 - Remove Whitespace.
