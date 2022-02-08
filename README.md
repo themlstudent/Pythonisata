@@ -37,14 +37,7 @@ About Python Variable , Identifiers and Scope :
 Working with Operators:
 
 - What Are Operators.
-- String Slicing
-    * Create a slice object for slicing.
-    * Get substring using slice object.
-    * Get substring using negative index.
-    * Get sublist and sub-tuple 
-    * Using Indexing Syntax for Slicing
-       * Slice From the Start
-       * Slice To the End
+-  Arithmetic Operators.
 - Reverse a String: 
 - Modify Strings.
 - Remove Whitespace.
