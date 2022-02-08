@@ -42,7 +42,7 @@ Working with Operators:
   * Subtraction Operator.
   * Multiplication Operator.
   * Division operator.
-  * 
+  * Exponentiation Operator.
 - Reverse a String: 
 - Modify Strings.
 - Remove Whitespace.
