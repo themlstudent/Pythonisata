@@ -45,7 +45,7 @@ Working with Operators:
   * Exponentiation Operator.
   * Floor Division Operator.
   * Modulus Operator.
-- Reverse a String: 
+- Python Relational Operators. 
 - Modify Strings.
 - Remove Whitespace.
    * Strip Method.
