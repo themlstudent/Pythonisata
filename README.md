@@ -43,6 +43,7 @@ Working with Operators:
   * Multiplication Operator.
   * Division operator.
   * Exponentiation Operator.
+  * Floor Division Operator.
 - Reverse a String: 
 - Modify Strings.
 - Remove Whitespace.
