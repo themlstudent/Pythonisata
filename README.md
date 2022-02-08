@@ -38,6 +38,8 @@ Working with Operators:
 
 - What Are Operators.
 -  Arithmetic Operators.
+  * Addition Operator.
+  * 
 - Reverse a String: 
 - Modify Strings.
 - Remove Whitespace.
