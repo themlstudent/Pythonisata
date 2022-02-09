@@ -59,7 +59,7 @@ Working with Operators:
   * Multiply and Assign Operator.
   * Divide and Assign Operator.
   * Modulus and Assign Operator.
-  * Exponentiation and Assign.
+  * Exponentiation and Assign Operator.
   * Floor divide and Assign Operator.
 
 ## Day 4:
