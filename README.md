@@ -51,6 +51,7 @@ Working with Operators:
   * Equal to Operator.
   * Not equal to Operator.
   * Greater than or equal to Operator.
+  * Less than or equal to Operator.
 - Modify Strings.
 - Remove Whitespace.
    * Strip Method.
