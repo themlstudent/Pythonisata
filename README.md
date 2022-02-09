@@ -52,6 +52,7 @@ Working with Operators:
   * Not equal to Operator.
   * Greater than or equal to Operator.
   * Less than or equal to Operator.
+- Python Assignment Operators.
 - Modify Strings.
 - Remove Whitespace.
    * Strip Method.
