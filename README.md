@@ -55,6 +55,7 @@ Working with Operators:
 - Python Assignment Operators.
   * Assign Operator.
   * Add and assign Opertaor.
+  * Subtract and Assign Operator.
 
 ## Day 4:
 
