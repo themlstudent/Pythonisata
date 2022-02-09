@@ -49,7 +49,8 @@ Working with Operators:
   * Greater than Operator.
   * Less than Operator.
   * Equal to Operator.
-  * Not equal to Operator
+  * Not equal to Operator.
+  * Greater than or equal to Operator.
 - Modify Strings.
 - Remove Whitespace.
    * Strip Method.
