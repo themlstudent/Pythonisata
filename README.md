@@ -60,6 +60,7 @@ Working with Operators:
   * Divide and Assign Operator.
   * Modulus and Assign Operator.
   * Exponentiation and Assign.
+  * Floor divide and Assign Operator.
 
 ## Day 4:
 
