@@ -54,8 +54,9 @@ Working with Operators:
   * Less than or equal to Operator.
 - Python Assignment Operators.
   * Assign Operator.
-  * Add and assign Opertaor.
+  * Add and Assign Opertaor.
   * Subtract and Assign Operator.
+  * Multiply and Assign Operator.
 
 ## Day 4:
 
