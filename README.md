@@ -53,13 +53,7 @@ Working with Operators:
   * Greater than or equal to Operator.
   * Less than or equal to Operator.
 - Python Assignment Operators.
-- Modify Strings.
-- Remove Whitespace.
-   * Strip Method.
-   * string.lstrip.
-   * string.rstrip.
-- Replace String.
-- Split String.
+  * Assign Operator.
 
 ## Day 4:
 
