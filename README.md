@@ -57,6 +57,7 @@ Working with Operators:
   * Add and Assign Opertaor.
   * Subtract and Assign Operator.
   * Multiply and Assign Operator.
+  * Divide and Assign Operator.
 
 ## Day 4:
 
