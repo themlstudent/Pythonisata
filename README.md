@@ -46,6 +46,7 @@ Working with Operators:
   * Floor Division Operator.
   * Modulus Operator.
 - Python Relational Operators. 
+  * Greater than Operator.
 - Modify Strings.
 - Remove Whitespace.
    * Strip Method.
