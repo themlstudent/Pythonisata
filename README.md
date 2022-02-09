@@ -47,6 +47,8 @@ Working with Operators:
   * Modulus Operator.
 - Python Relational Operators. 
   * Greater than Operator.
+  *  Less than Operator.
+  *  
 - Modify Strings.
 - Remove Whitespace.
    * Strip Method.
