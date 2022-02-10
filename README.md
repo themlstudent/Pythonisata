@@ -63,7 +63,8 @@ Working with Operators:
   * Floor divide and Assign Operator.
 - Python Logical Operators.
   * And (Logical And Operator).
-  * Or (Logical Or Operator ).
+  * Or (Logical Or Operator).
+  * Not (Logical Not Operator).
 
 ## Day 4:
 
