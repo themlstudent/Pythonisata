@@ -62,6 +62,7 @@ Working with Operators:
   * Exponentiation and Assign Operator.
   * Floor divide and Assign Operator.
 - Python Logical Operators.
+  * And (Logical And Operator).
 
 ## Day 4:
 
