@@ -65,6 +65,7 @@ Working with Operators:
   * And (Logical And Operator).
   * Or (Logical Or Operator).
   * Not (Logical Not Operator).
+- Python Membership Operators.
 
 ## Day 4:
 
