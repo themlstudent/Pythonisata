@@ -70,6 +70,7 @@ Working with Operators:
   * Not in Operator.
 - Python Identity Operators.
   * is Operator.
+  * is not Operator.
 
 ## Day 4:
 
