@@ -67,6 +67,7 @@ Working with Operators:
   * Not (Logical Not Operator).
 - Python Membership Operators.
   * in Operator.
+  * Not in Operator.
 
 ## Day 4:
 
