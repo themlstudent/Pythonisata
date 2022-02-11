@@ -68,6 +68,7 @@ Working with Operators:
 - Python Membership Operators.
   * in Operator.
   * Not in Operator.
+- Python Identity Operators.
 
 ## Day 4:
 
