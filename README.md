@@ -72,6 +72,7 @@ Working with Operators:
   * is Operator.
   * is not Operator.
 - Python Bitwise Operators.
+  * Bitwise And Operator.
 
 ## Day 4:
 
