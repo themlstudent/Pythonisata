@@ -77,6 +77,7 @@ Working with Operators:
   * Bitwise Xor Operator.
   * Bitwise 1’s complement.
   * Bitwise left-shift.
+  * Bitwise right-shift.
 
 ## Day 4:
 
