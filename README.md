@@ -73,6 +73,7 @@ Working with Operators:
   * is not Operator.
 - Python Bitwise Operators.
   * Bitwise And Operator.
+  * Bitwise Or Operator.
 
 ## Day 4:
 
