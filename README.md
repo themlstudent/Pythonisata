@@ -71,6 +71,7 @@ Working with Operators:
 - Python Identity Operators.
   * is Operator.
   * is not Operator.
+- Python Bitwise Operators.
 
 ## Day 4:
 
