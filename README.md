@@ -78,6 +78,7 @@ Working with Operators:
   * Bitwise 1’s complement.
   * Bitwise left-shift.
   * Bitwise right-shift.
+- Python Operator Precedence.
 
 ## Day 4:
 
