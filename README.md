@@ -74,6 +74,7 @@ Working with Operators:
 - Python Bitwise Operators.
   * Bitwise And Operator.
   * Bitwise Or Operator.
+  * Bitwise Xor Operator.
 
 ## Day 4:
 
