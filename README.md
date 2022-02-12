@@ -77,7 +77,7 @@ Working with Operators:
   * Bitwise Xor Operator.
   * Bitwise 1’s complement Operator.
   * Bitwise left-shift Operator.
-  * Bitwise right-shift.
+  * Bitwise right-shift Operator.
 - Python Operator Precedence.
 
 ## Day 4:
