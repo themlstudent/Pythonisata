@@ -2,7 +2,7 @@
 ![](/images/giphy.png)
 ## Day 1:
 
-Basic About Python :::::::::::::
+Basic About Python ::::::::::::
 
 - What is Python.
 - Why Choosee Python.
